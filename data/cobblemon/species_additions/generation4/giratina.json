@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:giratina",
+  "implemented": true,
+  "baseScale": 1.1,
+  "hitbox": {
+    "width": 4.5,
+    "height": 6.5,
+    "fixed": false
+  }
+}
