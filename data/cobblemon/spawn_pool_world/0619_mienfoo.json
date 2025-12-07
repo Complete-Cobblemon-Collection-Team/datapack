@@ -1,0 +1,41 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mienfoo-1",
+      "pokemon": "mienfoo",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "16-27",
+      "weight": 7.6,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_desert"
+        ]
+      }
+    },
+    {
+      "id": "mienfoo-2",
+      "pokemon": "mienfoo",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "27-32",
+      "weight": 7.6,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_savanna"
+        ]
+      }
+    }
+  ]
+}

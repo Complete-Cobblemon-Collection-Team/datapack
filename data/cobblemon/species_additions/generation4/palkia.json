@@ -1,0 +1,10 @@
+{
+  "implemented": true,
+  "target": "cobblemon:palkia",
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 2.5,
+    "height": 6.5,
+    "fixed": false
+  }
+}

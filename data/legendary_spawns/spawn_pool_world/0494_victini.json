@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "pokemon": "cobblemon:victini",
+      "id": "victini-1",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "15",
+      "weight": 0.1,
+      "condition": {
+        "structures": [
+          "#cobblemon:ruins/tower"
+        ]
+      }
+    }
+  ]
+}
