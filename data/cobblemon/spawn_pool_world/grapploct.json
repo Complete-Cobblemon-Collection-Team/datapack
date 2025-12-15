@@ -23,7 +23,7 @@
       "id": "grapploct-2",
       "pokemon": "grapploct",
       "presets": [
-        "water_surface"
+        "water"
       ],
       "type": "pokemon",
       "context": "surface",

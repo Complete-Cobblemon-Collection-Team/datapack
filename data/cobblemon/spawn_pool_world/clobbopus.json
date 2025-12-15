@@ -23,7 +23,7 @@
       "id": "clobbopus-2",
       "pokemon": "clobbopus",
       "presets": [
-        "water_surface"
+        "water"
       ],
       "type": "pokemon",
       "context": "surface",
