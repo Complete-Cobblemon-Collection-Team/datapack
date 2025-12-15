@@ -5,7 +5,7 @@
   "spawns": [
     {
       "id": "fezandipti-1",
-      "pokemon": "fezandipti",
+      "pokemon": "fezandipiti",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
