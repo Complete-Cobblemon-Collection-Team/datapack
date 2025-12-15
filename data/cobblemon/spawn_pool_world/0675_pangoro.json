@@ -16,7 +16,7 @@
       "weight": 0.76,
       "condition": {
         "biomes": [
-          "#cobblemon:is_bamboo_jungle"
+          "#cobblemon:is_bamboo"
         ]
       },
       "id": "pangoro-1"

@@ -16,7 +16,7 @@
       "weight": 7.6,
       "condition": {
         "biomes": [
-          "#cobblemon:is_bamboo_jungle"
+          "#cobblemon:is_bamboo"
         ]
       },
       "id": "pancham-1"
