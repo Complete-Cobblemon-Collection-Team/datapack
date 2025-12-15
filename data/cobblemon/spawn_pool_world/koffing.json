@@ -33,7 +33,7 @@
       "pokemon": "koffing",
       "presets": [
         "natural",
-        "village"
+        "urban"
       ],
       "type": "pokemon",
       "context": "grounded",
