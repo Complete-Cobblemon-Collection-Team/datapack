@@ -17,10 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_tundra",
-          "minecraft:snowy_plains",
-          "#cobblemon:is_snowy_forest",
-          "minecraft:ice_spikes"
+          "#cobblemon:is_snowy"
         ]
       }
     }

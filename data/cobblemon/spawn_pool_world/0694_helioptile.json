@@ -15,7 +15,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:desert"
+          "#cobblemon:is_desert"
         ],
         "isRaining": false,
         "timeRange": "day"
@@ -33,7 +33,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:savanna"
+          "#cobblemon:is_savanna"
         ],
         "isRaining": false,
         "timeRange": "day"
@@ -51,7 +51,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:badlands"
+          "#cobblemon:is_badlands"
         ],
         "isRaining": false,
         "timeRange": "day"

@@ -7,7 +7,7 @@
       "id": "lugia-shadow-1",
       "pokemon": "lugia shadow",
       "presets": [
-        "underwater"
+        "water"
       ],
       "type": "pokemon",
       "context": "submerged",
@@ -17,7 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:warm_ocean"
+          "#cobblemon:is_warm_ocean"
         ]
       }
     },
@@ -25,7 +25,7 @@
       "id": "lugia-shadow-2",
       "pokemon": "lugia shadow",
       "presets": [
-        "underwater"
+        "water"
       ],
       "type": "pokemon",
       "context": "submerged",
@@ -34,7 +34,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#minecraft:is_ocean"
+          "#cobblemon:is_ocean"
         ]
       }
     }

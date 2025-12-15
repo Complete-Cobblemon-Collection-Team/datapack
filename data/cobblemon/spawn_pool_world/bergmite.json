@@ -70,7 +70,10 @@
       "condition": {
         "biomes": [
           "minecraft:frozen_peaks",
-          "minecraft:snowy_slopes"
+          "minecraft:snowy_slopes",
+          "terralith:emerald_peaks",
+          "terralith:scarlet_mountains",
+          "wythers:snowy_peaks"
         ]
       }
     },

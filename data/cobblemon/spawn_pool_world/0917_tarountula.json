@@ -17,7 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:bamboo_jungle"
+          "#cobblemon:is_bamboo"
         ]
       }
     },
@@ -34,7 +34,7 @@
       "weight": 9.0,
       "condition": {
         "biomes": [
-          "minecraft:bamboo_jungle"
+          "#cobblemon:is_bamboo"
         ]
       }
     }

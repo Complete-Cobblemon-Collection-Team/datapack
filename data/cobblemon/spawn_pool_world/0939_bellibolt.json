@@ -14,7 +14,8 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:mangrove_swamp"
+          "minecraft:mangrove_swamp",
+          "terralith:orchid_swamp"
         ]
       }
     }
