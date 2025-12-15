@@ -7,7 +7,7 @@
       "id": "corsola-galarian",
       "pokemon": "corsola galarian=true",
       "presets": [
-        "underwater"
+        "water"
       ],
       "type": "pokemon",
       "context": "submerged",
@@ -24,7 +24,7 @@
       "id": "corsola-galarian-2",
       "pokemon": "corsola galarian=true",
       "presets": [
-        "underwater"
+        "water"
       ],
       "type": "pokemon",
       "context": "submerged",
