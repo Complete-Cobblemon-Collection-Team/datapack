@@ -1,6 +1,6 @@
 {
-  "implemented": true,
   "nationalPokedexNumber": 642,
+  "implemented": true,
   "name": "Thundurus",
   "primaryType": "electric",
   "secondaryType": "flying",
@@ -135,6 +135,7 @@
     "tm:weatherball",
     "tm:wildcharge",
     "tm:zenheadbutt",
+    "tutor:block",
     "tutor:bulkup",
     "tutor:chargebeam",
     "tutor:darkpulse",
@@ -175,27 +176,5 @@
     "legacy:toxic"
   ],
   "evolutions": [],
-  "forms": [],
-  "behaviour": {
-    "moving": {
-      "swim": {
-        "avoidsWater": true
-      },
-      "fly": {
-        "canFly": true
-      },
-      "walk": {
-        "canWalk": false
-      }
-    },
-    "combat": {
-      "willDefendSelf": true,
-      "willDefendOwner": true,
-      "willFlee": false
-    },
-    "resting": {
-      "drowsyChance": 0.0333,
-      "rouseChance": 0.0042
-    }
-  }
+  "forms": []
 }
