@@ -1,10 +1,21 @@
 {
-  "implemented": true,
   "target": "cobblemon:palkia",
-  "baseScale": 0.8,
+  "implemented": true,
   "hitbox": {
-    "width": 2.5,
+    "width": 3.5,
     "height": 6.5,
+    "baseScale": -0.7,
     "fixed": false
+  },
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.4
+      },
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.7
+      }
+    }
   }
 }
