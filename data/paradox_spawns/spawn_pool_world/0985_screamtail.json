@@ -1,25 +1,21 @@
 {
-  "enabled": true,
+  "enabled": "true",
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ragingbolt-1",
-      "pokemon": "ragingbolt",
-      "presets": [
-        "natural"
-      ],
+      "id": "screamtail-1",
+      "pokemon": "screamtail",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70-80",
-      "weight": 1.5,
+      "level": "48-80",
+      "weight": 11.0,
       "condition": {
         "biomes": [
-          "#cobblemon:is_plains"
+          "#cobblemon:is_dripstone"
         ]
       }
     }
   ]
 }
-        
