@@ -19,9 +19,7 @@
         "maxSkyLight": 15,
         "biomes": [
           "#cobblemon:is_forest",
-          "#cobblemon:is_jungle",
-          "aether:skyroot_forest",
-          "aether:skyroot_woodland"
+          "#cobblemon:is_jungle"
         ]
       },
       "anticondition": {

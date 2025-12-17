@@ -8,83 +8,55 @@
       "pokemon": "wormadam bagworm_cloak=plant",
       "presets": [
         "natural",
-        "foliage",
         "treetop"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
-      "level": "7-21",
-      "weight": 2.0,
+      "level": "20-65",
+      "weight": 0.5,
       "condition": {
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "biomes": [
           "#cobblemon:is_forest",
+          "#cobblemon:is_plains",
           "#cobblemon:is_jungle",
-          "aether:skyroot_forest",
-          "#cobblemon:is_taiga",
-          "aether:skyroot_woodland"
+          "#cobblemon:is_tropical_island"
         ]
       },
       "anticondition": {
         "biomes": [
-          "#cobblemon:is_freezing"
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_spooky"
         ]
       }
     },
     {
       "id": "wormadam-2",
       "pokemon": "wormadam bagworm_cloak=sandy",
-      "presets": [
-        "natural",
-        "foliage",
-        "treetop"
-      ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "common",
-      "level": "7-21",
-      "weight": 2.0,
+      "bucket": "uncommon",
+      "level": "15-32",
+      "weight": 2,
       "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_desert",
-          "#cobblemon:is_dripstone"
-        ]
-      },
-      "anticondition": {
-        "biomes": [
-          "#cobblemon:is_freezing"
+          "#cobblemon:is_arid"
         ]
       }
     },
     {
       "id": "wormadam-3",
       "pokemon": "wormadam bagworm_cloak=trash",
-      "presets": [
-        "natural",
-        "urban"
-      ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "common",
-      "level": "7-21",
-      "weight": 2.0,
+      "bucket": "uncommon",
+      "level": "15-32",
+      "weight": 2,
       "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_overworld"
-        ],
-        "structures": [
-          "#minecraft:village"
-        ]
-      },
-      "anticondition": {
-        "biomes": [
-          "#cobblemon:is_freezing"
+          "#cobblemon:is_floral"
         ]
       }
     }

@@ -4,36 +4,19 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "gulpin-6",
+      "id": "deeper-gulpin-1",
       "pokemon": "gulpin",
       "presets": [
-        "natural"
+        "deep_dark"
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "common",
-      "level": "8-27",
-      "weight": 7.6,
+      "bucket": "uncommon",
+      "level": "13-28",
+      "weight": 9.2,
       "condition": {
         "biomes": [
-          "#cobblemon:is_swamp"
-        ]
-      }
-    },
-    {
-      "id": "gulpin-7",
-      "pokemon": "gulpin",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "common",
-      "level": "5-27",
-      "weight": 7.6,
-      "condition": {
-        "biomes": [
-          "#cobblemon:is_river"
+          "deeperdarker:blooming_caverns"
         ]
       }
     }

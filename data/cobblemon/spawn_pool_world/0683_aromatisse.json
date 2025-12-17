@@ -4,40 +4,27 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
+      "id": "aromatisse-1",
       "pokemon": "aromatisse",
       "presets": [
-        "natural",
-        "wild"
+        "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "uncommon",
-      "level": "47",
-      "weight": 7.6,
+      "bucket": "rare",
+      "level": "35-65",
+      "weight": 2.75,
+      "weightMultiplier": {
+        "multiplier": 8.0,
+        "condition": {
+          "timeRange": "day"
+        }
+      },
       "condition": {
         "biomes": [
-          "#cobblemon:is_flower_forest"
+          "#cobblemon:is_aether"
         ]
-      },
-      "id": "aromatisse-1"
-    },
-    {
-      "pokemon": "aromatisse",
-      "presets": [
-        "natural",
-        "wild"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "uncommon",
-      "level": "47",
-      "weight": 7.6,
-      "condition": {
-        "biomes": [
-          "#cobblemon:is_forest"
-        ]
-      },
-      "id": "aromatisse-2"
+      }
     }
   ]
 }

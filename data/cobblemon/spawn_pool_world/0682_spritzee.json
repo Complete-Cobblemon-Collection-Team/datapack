@@ -4,40 +4,27 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
+      "id": "spritzee-1",
       "pokemon": "spritzee",
       "presets": [
-        "natural",
-        "wild"
+        "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "common",
-      "level": "24",
-      "weight": 7.6,
+      "bucket": "uncommon",
+      "level": "15-28",
+      "weight": 2.75,
+      "weightMultiplier": {
+        "multiplier": 8.0,
+        "condition": {
+          "timeRange": "day"
+        }
+      },
       "condition": {
         "biomes": [
-          "#cobblemon:is_flower_forest"
+          "#cobblemon:is_aether"
         ]
-      },
-      "id": "spritzee-1"
-    },
-    {
-      "pokemon": "spritzee",
-      "presets": [
-        "natural",
-        "wild"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "common",
-      "level": "27",
-      "weight": 7.6,
-      "condition": {
-        "biomes": [
-          "#cobblemon:is_forest"
-        ]
-      },
-      "id": "spritzee-2"
+      }
     }
   ]
 }

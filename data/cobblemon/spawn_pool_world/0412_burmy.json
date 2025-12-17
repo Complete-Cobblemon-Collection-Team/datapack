@@ -8,83 +8,57 @@
       "pokemon": "burmy bagworm_cloak=plant",
       "presets": [
         "natural",
-        "foliage",
         "treetop"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
-      "level": "7-21",
-      "weight": 2.0,
+      "level": "10-25",
+      "weight": 5.0,
       "condition": {
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "biomes": [
           "#cobblemon:is_forest",
+          "#cobblemon:is_plains",
           "#cobblemon:is_jungle",
-          "aether:skyroot_forest",
-          "#cobblemon:is_taiga",
-          "aether:skyroot_woodland"
+          "#cobblemon:is_tropical_island"
         ]
       },
       "anticondition": {
         "biomes": [
-          "#cobblemon:is_freezing"
-        ]
-      }
-    },
-    {
-      "id": "burmy-2",
-      "pokemon": "burmy bagworm_cloak=sandy",
-      "presets": [
-        "natural",
-        "foliage",
-        "treetop"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "common",
-      "level": "7-21",
-      "weight": 2.0,
-      "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
-        "biomes": [
-          "#cobblemon:is_desert",
-          "#cobblemon:is_dripstone"
-        ]
-      },
-      "anticondition": {
-        "biomes": [
-          "#cobblemon:is_freezing"
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_spooky",
+          "#cobblemon:is_arid",
+          "#cobblemon:is_floral"
         ]
       }
     },
     {
       "id": "burmy-3",
-      "pokemon": "burmy bagworm_cloak=trash",
-      "presets": [
-        "natural",
-        "urban"
-      ],
+      "pokemon": "burmy bagworm_cloak=sandy",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
-      "level": "7-21",
-      "weight": 2.0,
+      "level": "5-19",
+      "weight": 2,
       "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_overworld"
-        ],
-        "structures": [
-          "#minecraft:village"
+          "#cobblemon:is_arid"
         ]
-      },
-      "anticondition": {
+      }
+    },
+    {
+      "id": "burmy-4",
+      "pokemon": "burmy bagworm_cloak=trash",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "5-19",
+      "weight": 2,
+      "condition": {
         "biomes": [
-          "#cobblemon:is_freezing"
+          "#cobblemon:is_floral"
         ]
       }
     }

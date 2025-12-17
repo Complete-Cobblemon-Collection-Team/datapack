@@ -12,35 +12,11 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "uncommon",
-      "level": "55-60",
-      "weight": 2,
-      "condition": {
-        "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_cold"
-        ]
-      }
-    },
-    {
-      "id": "darmanitan-galarian-2",
-      "pokemon": "darmanitan galarian",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "rare",
-      "level": "7-32",
-      "weight": 5.4,
+      "level": "35-60",
+      "weight": 3.5,
       "condition": {
         "biomes": [
-          "#cobblemon:nether/is_frozen"
-        ]
-      },
-      "anticondition": {
-        "biomes": [
-          "#cobblemon:nether/is_quartz",
-          "#cobblemon:nether/is_toxic"
+          "#cobblemon:is_snowy"
         ]
       }
     }

@@ -4,36 +4,19 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "swalot-6",
+      "id": "deeper-swalot-1",
       "pokemon": "swalot",
       "presets": [
-        "natural"
+        "deep_dark"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "uncommon",
-      "level": "27-36",
-      "weight": 7.6,
+      "level": "25-48",
+      "weight": 2.65,
       "condition": {
         "biomes": [
-          "#cobblemon:is_swamp"
-        ]
-      }
-    },
-    {
-      "id": "swalot-7",
-      "pokemon": "swalot",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "rare",
-      "level": "27-32",
-      "weight": 7.6,
-      "condition": {
-        "biomes": [
-          "#cobblemon:is_river"
+          "deeperdarker:blooming_caverns"
         ]
       }
     }

@@ -12,12 +12,12 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
-      "level": "15-36",
-      "weight": 10.0,
+      "level": "13-23",
+      "weight": 4.0,
       "condition": {
         "timeRange": "night",
         "biomes": [
-          "#cobblemon:is_freezing"
+          "#cobblemon:is_tundra"
         ]
       }
     }

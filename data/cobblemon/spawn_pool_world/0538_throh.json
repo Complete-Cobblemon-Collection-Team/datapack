@@ -7,17 +7,18 @@
       "id": "throh-1",
       "pokemon": "throh",
       "presets": [
-        "natural",
-        "wild"
+        "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "rare",
-      "level": "39-45",
-      "weight": 8,
+      "bucket": "uncommon",
+      "level": "12-62",
+      "weight": 3.0,
       "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_savanna"
+          "#cobblemon:is_mountain"
         ]
       }
     }
