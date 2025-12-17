@@ -12,28 +12,12 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "60",
-      "weight": 1.0,
+      "level": "35-60",
+      "weight": 2.2,
       "condition": {
+        "canSeeSky": true,
         "biomes": [
-          "minecraft:dark_forest"
-        ]
-      }
-    },
-    {
-      "id": "wochien-2",
-      "pokemon": "wochien",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "ultra-rare",
-      "level": "60",
-      "weight": 1.0,
-      "condition": {
-        "biomes": [
-          "#cobblemon:is_savanna"
+          "#cobblemon:is_magical"
         ]
       }
     }

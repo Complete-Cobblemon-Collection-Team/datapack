@@ -1,18 +1,15 @@
 {
   "enabled": true,
-  "neededInstalledMods": [],
-  "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "zarude-1",
+      "pokemon": "zarude",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "70",
-      "weight": 3.25,
+      "weight": 0.1,
       "condition": {
-        "canSeeSky": true,
         "biomes": [
           "#cobblemon:is_jungle"
         ]

@@ -4,17 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "cobalion-1",
+      "pokemon": "cobalion",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 3.25,
+      "level": "70-100",
+      "weight": 0.1,
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_jungle"
+          "minecraft:windswept_forest"
         ]
       }
     }

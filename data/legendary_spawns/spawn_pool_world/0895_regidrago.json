@@ -1,20 +1,20 @@
 {
   "enabled": true,
-  "neededInstalledMods": [],
-  "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "regidrago-1",
+      "pokemon": "regidrago",
+      "presets": [
+        "natural"
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "70",
-      "weight": 3.25,
+      "weight": 0.1,
       "condition": {
-        "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_jungle"
+          "#cobblemon:is_deep_dark"
         ]
       }
     }

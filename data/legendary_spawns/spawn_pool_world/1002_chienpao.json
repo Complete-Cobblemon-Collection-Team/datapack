@@ -4,17 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "chienpao-1",
+      "pokemon": "chienpao",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 3.25,
+      "level": "75-80",
+      "weight": 2.5,
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_jungle"
+          "#cobblemon:is_freezing"
         ]
       }
     }

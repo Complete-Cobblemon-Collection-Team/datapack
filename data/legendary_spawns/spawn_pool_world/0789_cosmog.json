@@ -4,17 +4,21 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "cosmog-1",
+      "pokemon": "cosmog",
+      "presets": [
+        "natural"
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 3.25,
+      "level": "15-36",
+      "weight": 0.1,
       "condition": {
-        "canSeeSky": true,
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
         "biomes": [
-          "#cobblemon:is_jungle"
+          "#cobblemon:is_deep_dark"
         ]
       }
     }

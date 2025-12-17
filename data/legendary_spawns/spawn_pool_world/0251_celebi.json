@@ -4,18 +4,19 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "celebi-1",
+      "pokemon": "celebi",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 3.25,
+      "level": "65",
+      "weight": 0.1,
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_jungle"
-        ]
+          "#cobblemon:is_forest"
+        ],
+        "timeRange": "night"
       }
     }
   ]

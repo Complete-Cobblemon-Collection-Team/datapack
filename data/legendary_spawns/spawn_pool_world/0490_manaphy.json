@@ -4,18 +4,18 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "manaphy-1",
+      "pokemon": "manaphy",
       "type": "pokemon",
-      "context": "grounded",
+      "context": "fishing",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 3.25,
+      "level": "50",
+      "weight": 0.1,
       "condition": {
-        "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_jungle"
-        ]
+          "#cobblemon:is_ocean"
+        ],
+        "minLureLevel": 2
       }
     }
   ]

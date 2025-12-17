@@ -4,17 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "munkidori-1",
-      "pokemon": "munkidori",
+      "id": "marshadow-1",
+      "pokemon": "marshadow",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "70",
-      "weight": 3.25,
+      "weight": 0.1,
       "condition": {
-        "canSeeSky": true,
+        "canSeeSky": false,
         "biomes": [
-          "#cobblemon:is_jungle"
+          "#cobblemon:is_deep_dark"
         ]
       }
     }
