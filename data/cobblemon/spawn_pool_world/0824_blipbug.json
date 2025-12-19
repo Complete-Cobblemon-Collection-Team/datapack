@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "blipbug-1",
+      "id": "ccc-blipbug-1",
       "pokemon": "blipbug",
       "presets": [
         "natural",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": "blipbug-2",
+      "id": "ccc-blipbug-2",
       "pokemon": "blipbug",
       "presets": [
         "natural",

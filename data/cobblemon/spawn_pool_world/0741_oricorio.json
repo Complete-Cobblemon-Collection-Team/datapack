@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "oricorio-1",
+      "id": "ccc-oricorio-1",
       "pokemon": "oricorio dance_style=baile",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "oricorio-2",
+      "id": "ccc-oricorio-2",
       "pokemon": "oricorio dance_style=pom-pom",
       "presets": [
         "natural"
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "oricorio-3",
+      "id": "ccc-oricorio-3",
       "pokemon": "oricorio dance_style=pau",
       "presets": [
         "natural"
@@ -60,7 +60,7 @@
       }
     },
     {
-      "id": "oricorio-4",
+      "id": "ccc-oricorio-4",
       "pokemon": "oricorio dance_style=sensu",
       "presets": [
       ],

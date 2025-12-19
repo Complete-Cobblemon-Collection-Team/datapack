@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "corsola-galarian",
+      "id": "ccc-corsola-galarian",
       "pokemon": "corsola galarian=true",
       "presets": [
         "water"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "corsola-galarian-2",
+      "id": "ccc-corsola-galarian-2",
       "pokemon": "corsola galarian=true",
       "presets": [
         "water"

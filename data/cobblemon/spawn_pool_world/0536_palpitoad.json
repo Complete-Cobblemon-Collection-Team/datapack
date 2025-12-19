@@ -4,13 +4,13 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "palpitoad-1",
+      "id": "ccc-palpitoad-1",
       "pokemon": "palpitoad",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
-      "spawnablePositionType": "grounded",
+      "context": "grounded",
       "bucket": "common",
       "level": "25-39",
       "weight": 0.95,
@@ -23,13 +23,13 @@
       }
     },
     {
-      "id": "palpitoad-2",
+      "id": "ccc-palpitoad-2",
       "pokemon": "palpitoad",
       "presets": [
         "water"
       ],
       "type": "pokemon",
-      "spawnablePositionType": "submerged",
+      "context": "submerged",
       "bucket": "common",
       "level": "25-39",
       "weight": 0.95,

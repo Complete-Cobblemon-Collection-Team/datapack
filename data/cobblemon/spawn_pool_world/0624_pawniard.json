@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "pawniard-1",
+      "id": "ccc-pawniard-1",
       "pokemon": "pawniard",
       "presets": [
         "natural",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "id": "pawniard-2",
+      "id": "ccc-pawniard-2",
       "pokemon": "pawniard",
       "presets": [
         "natural"
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "pawniard-3",
+      "id": "ccc-pawniard-3",
       "pokemon": "pawniard",
       "presets": [
         "natural",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "id": "pawniard-4",
+      "id": "ccc-pawniard-4",
       "pokemon": "pawniard",
       "presets": [
         "natural",

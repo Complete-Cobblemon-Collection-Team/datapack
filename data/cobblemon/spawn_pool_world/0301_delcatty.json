@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "delcatty-1",
+      "id": "ccc-delcatty-1",
       "pokemon": "delcatty",
       "presets": [
         "natural",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "id": "delcatty-2",
+      "id": "ccc-delcatty-2",
       "pokemon": "delcatty",
       "presets": [
         "natural",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "id": "delcatty-3",
+      "id": "ccc-delcatty-3",
       "pokemon": "delcatty",
       "presets": [
         "natural"

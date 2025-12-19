@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "avalugg-hisuian-1",
+      "id": "ccc-avalugg-hisuian-1",
       "pokemon": "avalugg hisuian",
       "presets": [
         "natural"
@@ -26,7 +26,7 @@
       }
     },
     {
-      "id": "avalugg-hisuian-2",
+      "id": "ccc-avalugg-hisuian-2",
       "pokemon": "avalugg hisuian",
       "presets": [
         "natural"
