@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "dialga-1",
+      "id": "ccc-dialga-1",
       "pokemon": "dialga",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "dialga-2",
+      "id": "ccc-dialga-2",
       "pokemon": "dialga",
       "presets": [
         "natural"

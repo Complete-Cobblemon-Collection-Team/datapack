@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "tapulele-1",
+      "id": "ccc-tapulele-1",
       "pokemon": "tapulele",
       "presets": [
         "natural"
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "tapulele-2",
+      "id": "ccc-tapulele-2",
       "pokemon": "tapulele",
       "presets": [
         "natural"

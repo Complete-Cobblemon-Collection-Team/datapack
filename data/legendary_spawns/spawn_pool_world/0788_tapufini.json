@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "tapufini-1",
+      "id": "ccc-tapufini-1",
       "pokemon": "tapufini",
       "presets": [
         "natural"
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "tapufini-2",
+      "id": "ccc-tapufini-2",
       "pokemon": "tapufini",
       "presets": [
         "natural"

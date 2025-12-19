@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "koraidon-1",
+      "id": "ccc-koraidon-1",
       "pokemon": "koraidon",
       "presets": [
         "natural"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "koraidon-2",
+      "id": "ccc-koraidon-2",
       "pokemon": "koraidon",
       "presets": [
         "natural"

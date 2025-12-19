@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "moltres-1",
+      "id": "ccc-moltres-1",
       "pokemon": "moltres",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "moltres-galarian-1",
+      "id": "ccc-moltres-galarian-1",
       "pokemon": "moltres galarian",
       "presets": [
         "natural"

@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "lugia-shadow-1",
+      "id": "ccc-lugia-shadow-1",
       "pokemon": "lugia shadow",
       "presets": [
         "water"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "lugia-shadow-2",
+      "id": "ccc-lugia-shadow-2",
       "pokemon": "lugia shadow",
       "presets": [
         "water"

@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "regirock-1",
+      "id": "ccc-regirock-1",
       "pokemon": "regirock",
       "presets": [
         "natural"

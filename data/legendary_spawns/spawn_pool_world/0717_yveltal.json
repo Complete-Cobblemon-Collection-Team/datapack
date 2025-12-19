@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "yveltal-1",
+      "id": "ccc-yveltal-1",
       "pokemon": "yveltal",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "yveltal-2",
+      "id": "ccc-yveltal-2",
       "pokemon": "yveltal",
       "presets": [
         "natural"
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "yveltal-3",
+      "id": "ccc-yveltal-3",
       "pokemon": "yveltal",
       "presets": [
         "natural"

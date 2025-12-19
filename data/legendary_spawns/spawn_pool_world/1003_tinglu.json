@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "tinglu-1",
+      "id": "ccc-tinglu-1",
       "pokemon": "tinglu",
       "presets": [
         "natural"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "tinglu-2",
+      "id": "ccc-tinglu-2",
       "pokemon": "tinglu",
       "presets": [
         "natural"

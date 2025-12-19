@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "diancie-1",
+      "id": "ccc-diancie-1",
       "pokemon": "diancie",
       "type": "pokemon",
       "context": "grounded",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "diancie-2",
+      "id": "ccc-diancie-2",
       "pokemon": "diancie",
       "presets": [
         "natural"

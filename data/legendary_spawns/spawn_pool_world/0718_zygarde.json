@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "zygarde-1",
+      "id": "ccc-zygarde-1",
       "pokemon": "zygarde percent_cells=1",
       "presets": [
         "natural"
@@ -30,7 +30,7 @@
       }
     },
     {
-      "id": "zygarde-2",
+      "id": "ccc-zygarde-2",
       "pokemon": "zygarde percent_cells=10",
       "presets": [
         "natural"
@@ -56,7 +56,7 @@
       }
     },
     {
-      "id": "zygarde-3",
+      "id": "ccc-zygarde-3",
       "pokemon": "zygarde percent_cells=50",
       "presets": [
         "natural"

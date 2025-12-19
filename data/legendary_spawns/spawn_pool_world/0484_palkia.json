@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "palkia-1",
+      "id": "ccc-palkia-1",
       "pokemon": "palkia",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "palkia-2",
+      "id": "ccc-palkia-2",
       "pokemon": "palkia",
       "presets": [
         "natural"

@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "regidrago-1",
+      "id": "ccc-regidrago-1",
       "pokemon": "regidrago",
       "presets": [
         "natural"

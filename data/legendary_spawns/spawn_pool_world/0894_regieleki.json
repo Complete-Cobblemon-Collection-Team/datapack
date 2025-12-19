@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "regieleki-1",
+      "id": "ccc-regieleki-1",
       "pokemon": "regieleki",
       "presets": [
         "natural"

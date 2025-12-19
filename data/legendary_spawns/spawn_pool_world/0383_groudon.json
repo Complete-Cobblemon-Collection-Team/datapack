@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "groudon-1",
+      "id": "ccc-groudon-1",
       "pokemon": "groudon",
       "presets": [
         "natural"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "groudon-2",
+      "id": "ccc-groudon-2",
       "pokemon": "groudon",
       "presets": [
         "natural"

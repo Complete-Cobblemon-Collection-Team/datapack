@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "regigigas-1",
+      "id": "ccc-regigigas-1",
       "pokemon": "regigigas",
       "presets": [
         "natural"

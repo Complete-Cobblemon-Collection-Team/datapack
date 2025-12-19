@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "zarude-1",
+      "id": "ccc-zarude-1",
       "pokemon": "zarude",
       "type": "pokemon",
       "context": "grounded",

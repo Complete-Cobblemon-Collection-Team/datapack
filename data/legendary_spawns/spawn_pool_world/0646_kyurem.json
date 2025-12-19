@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "kyurem-1",
+      "id": "ccc-kyurem-1",
       "pokemon": "kyurem",
       "type": "pokemon",
       "context": "grounded",
