@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-solgaleo-1",
+      "id": "solgaleo-1",
       "pokemon": "solgaleo",
       "presets": [
         "natural"
@@ -20,8 +20,7 @@
           "minecraft:desert",
           "wythers:badlands_desert"
         ],
-        "timeRange": "day",
-        "key_item": "mythsandlegends:sun_flute"
+        "timeRange": "day"
       }
     }
   ]

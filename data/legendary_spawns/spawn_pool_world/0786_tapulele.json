@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-tapulele-1",
+      "id": "tapulele-1",
       "pokemon": "tapulele",
       "presets": [
         "natural"
@@ -31,12 +31,11 @@
           "wythers:tropical_grassland",
           "wythers:tropical_island",
           "wythers:tropical_rainforest"
-        ],
-        "key_item": "mythsandlegends:lele_totem"
+        ]
       }
     },
     {
-      "id": "mythsandlegends-tapulele-2",
+      "id": "tapulele-2",
       "pokemon": "tapulele",
       "presets": [
         "natural"
@@ -67,8 +66,7 @@
           "wythers:temperate_island",
           "wythers:tropical_island",
           "wythers:warm_stony_shore"
-        ],
-        "key_item": "mythsandlegends:lele_totem"
+        ]
       }
     }
   ]

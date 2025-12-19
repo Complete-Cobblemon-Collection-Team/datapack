@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-tapubulu-1",
+      "id": "tapubulu-1",
       "pokemon": "tapubulu",
       "presets": [
         "natural"
@@ -31,12 +31,11 @@
           "wythers:tropical_grassland",
           "wythers:tropical_island",
           "wythers:tropical_rainforest"
-        ],
-        "key_item": "mythsandlegends:bulu_totem"
+        ]
       }
     },
     {
-      "id": "mythsandlegends-tapubulu-2",
+      "id": "tapubulu-2",
       "pokemon": "tapubulu",
       "presets": [
         "natural"
@@ -67,8 +66,7 @@
           "wythers:temperate_island",
           "wythers:tropical_island",
           "wythers:warm_stony_shore"
-        ],
-        "key_item": "mythsandlegends:bulu_totem"
+        ]
       }
     }
   ]

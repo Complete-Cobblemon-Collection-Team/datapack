@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-enamorus-1",
+      "id": "enamorus-1",
       "pokemon": "enamorus",
       "presets": [
         "natural"
@@ -20,8 +20,7 @@
           "minecraft:flower_forest",
           "minecraft:meadow",
           "minecraft:cherry_grove"
-        ],
-        "key_item": "mythsandlegends:reveal_glass"
+        ]
       }
     }
   ]

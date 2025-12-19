@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-tapufini-1",
+      "id": "tapufini-1",
       "pokemon": "tapufini",
       "presets": [
         "natural"
@@ -31,12 +31,11 @@
           "wythers:tropical_grassland",
           "wythers:tropical_island",
           "wythers:tropical_rainforest"
-        ],
-        "key_item": "mythsandlegends:fini_totem"
+        ]
       }
     },
     {
-      "id": "mythsandlegends-tapufini-2",
+      "id": "tapufini-2",
       "pokemon": "tapufini",
       "presets": [
         "natural"
@@ -67,8 +66,7 @@
           "wythers:temperate_island",
           "wythers:tropical_island",
           "wythers:warm_stony_shore"
-        ],
-        "key_item": "mythsandlegends:fini_totem"
+        ]
       }
     }
   ]

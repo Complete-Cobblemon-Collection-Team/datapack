@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-meloetta-1",
+      "id": "meloetta-1",
       "pokemon": "meloetta",
       "presets": [
         "natural"
@@ -42,8 +42,7 @@
           "wythers:sakura_forest",
           "wythers:spring_flower_fields",
           "wythers:spring_flower_forest"
-        ],
-        "key_item": "mythsandlegends:meloetta_headset"
+        ]
       }
     }
   ]

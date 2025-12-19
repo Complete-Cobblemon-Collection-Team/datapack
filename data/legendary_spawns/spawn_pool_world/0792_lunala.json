@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-lunala-1",
+      "id": "lunala-1",
       "pokemon": "lunala",
       "presets": [
         "natural"
@@ -20,8 +20,7 @@
           "byg:warped_desert",
           "#cobblemon:is_hills"
         ],
-        "timeRange": "night",
-        "key_item": "mythsandlegends:moon_flute"
+        "timeRange": "night"
       }
     }
   ]
