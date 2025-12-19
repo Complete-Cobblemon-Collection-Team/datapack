@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "pheromosa-1",
+      "id": "ccc-pheromosa-1",
       "pokemon": "pheromosa",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "pheromosa-2",
+      "id": "ccc-pheromosa-2",
       "pokemon": "pheromosa",
       "presets": [
         "natural"
