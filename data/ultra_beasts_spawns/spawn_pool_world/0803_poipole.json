@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "poipole-1",
+      "id": "ccc-poipole-1",
       "pokemon": "poipole",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "poipole-2",
+      "id": "ccc-poipole-2",
       "pokemon": "poipole",
       "presets": [
         "natural"
