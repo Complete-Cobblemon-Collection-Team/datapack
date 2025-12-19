@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "irontreads-1",
+      "id": "ccc-irontreads-1",
       "pokemon": "irontreads",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "irontreads-2",
+      "id": "ccc-irontreads-2",
       "pokemon": "irontreads",
       "presets": [
         "natural"
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "irontreads-3",
+      "id": "ccc-irontreads-3",
       "pokemon": "irontreads",
       "presets": [
         "natural"
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": "irontreads-4",
+      "id": "ccc-irontreads-4",
       "pokemon": "irontreads",
       "presets": [
         "natural"

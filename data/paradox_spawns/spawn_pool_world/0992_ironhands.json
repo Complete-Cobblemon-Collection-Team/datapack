@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ironhands_1",
+      "id": "ccc-ironhands_1",
       "pokemon": "ironhands",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "ironhands_2",
+      "id": "ccc-ironhands_2",
       "pokemon": "ironhands",
       "presets": [],
       "type": "pokemon",
