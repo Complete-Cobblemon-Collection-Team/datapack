@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "slitherwing-1",
+      "id": "ccc-slitherwing-1",
       "pokemon": "slitherwing",
       "presets": [
         "natural"
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "slitherwing-2",
+      "id": "ccc-slitherwing-2",
       "pokemon": "slitherwing",
       "presets": [
         "natural"
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "slitherwing-3",
+      "id": "ccc-slitherwing-3",
       "pokemon": "slitherwing",
       "presets": [
         "natural"

@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ironbundle-1",
+      "id": "ccc-ironbundle-1",
       "pokemon": "ironbundle",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "ironbundle-2",
+      "id": "ccc-ironbundle-2",
       "pokemon": "ironbundle",
       "presets": [
         "natural"
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "ironbundle-3",
+      "id": "ccc-ironbundle-3",
       "pokemon": "ironbundle",
       "presets": [
         "natural"
@@ -60,7 +60,7 @@
       }
     },
     {
-      "id": "ironbundle-4",
+      "id": "ccc-ironbundle-4",
       "pokemon": "ironbundle",
       "presets": [
         "natural"
