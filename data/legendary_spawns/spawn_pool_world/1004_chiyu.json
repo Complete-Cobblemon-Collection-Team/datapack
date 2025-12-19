@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "chiyu-1",
+      "id": "ccc-chiyu-1",
       "pokemon": "chiyu",
       "presets": [
         "lava"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "chiyu-2",
+      "id": "ccc-chiyu-2",
       "pokemon": "chiyu",
       "presets": [
         "natural"

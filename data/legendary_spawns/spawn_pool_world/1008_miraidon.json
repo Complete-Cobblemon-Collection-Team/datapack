@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "miraidon-1",
+      "id": "ccc-miraidon-1",
       "pokemon": "miraidon",
       "presets": [
         "natural"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "miraidon-2",
+      "id": "ccc-miraidon-2",
       "pokemon": "miraidon",
       "presets": [
         "natural"

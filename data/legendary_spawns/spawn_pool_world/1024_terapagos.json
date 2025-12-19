@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "terapagos-1",
+      "id": "ccc-terapagos-1",
       "pokemon": "terapagos",
       "presets": [
         "natural"
@@ -44,7 +44,7 @@
       }
     },
     {
-      "id": "terapagos-2",
+      "id": "ccc-terapagos-2",
       "pokemon": "terapagos",
       "presets": [
         "natural"

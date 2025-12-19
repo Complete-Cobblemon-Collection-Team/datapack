@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "articuno",
+      "id": "ccc-articuno",
       "pokemon": "articuno",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "articuno-galarian",
+      "id": "ccc-articuno-galarian",
       "pokemon": "articuno galarian",
       "presets": [
         "natural"

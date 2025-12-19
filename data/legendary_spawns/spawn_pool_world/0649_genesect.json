@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "genesect-1",
+      "id": "ccc-genesect-1",
       "pokemon": "genesect",
       "presets": [
         "natural"
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "genesect-2",
+      "id": "ccc-genesect-2",
       "pokemon": "genesect",
       "presets": [
         "natural"

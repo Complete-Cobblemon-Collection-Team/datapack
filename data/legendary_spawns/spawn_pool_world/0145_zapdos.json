@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "zapdos",
+      "id": "ccc-zapdos",
       "pokemon": "zapdos",
       "presets": [
         "natural"
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "zapdos-galarian",
+      "id": "ccc-zapdos-galarian",
       "pokemon": "zapdos galarian",
       "presets": [
         "natural"

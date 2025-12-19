@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "registeel-1",
+      "id": "ccc-registeel-1",
       "pokemon": "registeel",
       "presets": [
         "natural"

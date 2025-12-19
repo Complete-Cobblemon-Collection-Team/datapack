@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "virizion-1",
+      "id": "ccc-virizion-1",
       "pokemon": "virizion",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "virizion-2",
+      "id": "ccc-virizion-2",
       "pokemon": "virizion",
       "presets": [
         "natural"

@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "magearna-1",
+      "id": "ccc-magearna-1",
       "pokemon": "magearna",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "magearna-2",
+      "id": "ccc-magearna-2",
       "pokemon": "magearna paint_color=original",
       "presets": [
         "natural"

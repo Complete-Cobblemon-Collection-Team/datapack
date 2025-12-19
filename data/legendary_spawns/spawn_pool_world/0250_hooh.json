@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "hooh-1",
+      "id": "ccc-hooh-1",
       "pokemon": "hooh",
       "presets": [
         "natural",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "hooh-2",
+      "id": "ccc-hooh-2",
       "pokemon": "hooh",
       "presets": [
         "natural"

@@ -2,7 +2,7 @@
   "enabled": true,
   "spawns": [
     {
-      "id": "regice-1",
+      "id": "ccc-regice-1",
       "pokemon": "regice",
       "type": "pokemon",
       "context": "fishing",

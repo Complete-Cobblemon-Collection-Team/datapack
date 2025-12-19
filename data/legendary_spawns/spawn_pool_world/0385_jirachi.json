@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "jirachi-1",
+      "id": "ccc-jirachi-1",
       "pokemon": "jirachi",
       "presets": [
         "natural"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "jirachi-2",
+      "id": "ccc-jirachi-2",
       "pokemon": "jirachi",
       "presets": [
         "natural"

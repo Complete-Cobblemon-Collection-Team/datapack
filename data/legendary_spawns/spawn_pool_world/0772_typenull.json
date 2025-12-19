@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "typenull-1",
+      "id": "ccc-typenull-1",
       "pokemon": "typenull",
       "presets": [
         "natural"
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "typenull-2",
+      "id": "ccc-typenull-2",
       "pokemon": "typenull",
       "presets": [
         "natural"
