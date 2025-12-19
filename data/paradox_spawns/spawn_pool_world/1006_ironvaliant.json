@@ -4,14 +4,14 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ironvaliant-1T",
+      "id": "ironvaliant-1",
       "pokemon": "ironvaliant",
       "presets": [
         "natural",
         "wild"
       ],
       "type": "pokemon",
-      "spawnablePositionType": "grounded",
+      "context": "grounded",
       "bucket": "rare",
       "level": "40-75",
       "weight": 3.0,
