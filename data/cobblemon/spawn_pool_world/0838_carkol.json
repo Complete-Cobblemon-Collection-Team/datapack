@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "carkol-1",
+      "id": "ccc-carkol-1",
       "pokemon": "carkol",
       "presets": [
         "natural",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "id": "carkol-2",
+      "id": "ccc-carkol-2",
       "pokemon": "carkol",
       "presets": [
         "natural",

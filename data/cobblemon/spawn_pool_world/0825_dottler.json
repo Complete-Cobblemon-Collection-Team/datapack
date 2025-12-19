@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "dottler-1",
+      "id": "ccc-dottler-1",
       "pokemon": "dottler",
       "presets": [
         "natural",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": "dottler-2",
+      "id": "ccc-dottler-2",
       "pokemon": "dottler",
       "presets": [
         "natural",

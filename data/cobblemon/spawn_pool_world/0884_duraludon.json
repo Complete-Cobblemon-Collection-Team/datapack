@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "duraludon-1",
+      "id": "ccc-duraludon-1",
       "pokemon": "duraludon",
       "type": "pokemon",
       "context": "grounded",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "duraludon-2",
+      "id": "ccc-duraludon-2",
       "pokemon": "duraludon",
       "type": "pokemon",
       "context": "grounded",

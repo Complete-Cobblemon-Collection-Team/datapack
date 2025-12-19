@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "castform-1",
+      "id": "ccc-castform-1",
       "pokemon": "castform forecast=rainy",
       "presets": [
         "natural",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "castform-2",
+      "id": "ccc-castform-2",
       "pokemon": "castform forecast=snowy",
       "presets": [
         "natural",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "castform-3",
+      "id": "ccc-castform-3",
       "pokemon": "castform forecast=sunny",
       "presets": [
         "natural",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "id": "castform-4",
+      "id": "ccc-castform-4",
       "pokemon": "castform",
       "presets": [
         "natural"

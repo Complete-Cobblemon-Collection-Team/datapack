@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "passimian-1",
+      "id": "ccc-passimian-1",
       "pokemon": "passimian",
       "presets": [
         "natural"
@@ -25,7 +25,7 @@
       }
     },
     {
-      "id": "passimian-red-2",
+      "id": "ccc-passimian-red-2",
       "pokemon": "passimian red-leaf",
       "presets": [
         "natural"

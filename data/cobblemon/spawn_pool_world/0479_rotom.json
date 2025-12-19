@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rotom-1",
+      "id": "ccc-rotom-1",
       "pokemon": "rotom",
       "type": "pokemon",
       "context": "grounded",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "id": "rotom-2",
+      "id": "ccc-rotom-2",
       "pokemon": "rotom",
       "type": "pokemon",
       "presets": [
@@ -50,7 +50,7 @@
       }
     },
     {
-      "id": "rotom-3",
+      "id": "ccc-rotom-3",
       "pokemon": "rotom",
       "type": "pokemon",
       "presets": [
@@ -74,7 +74,7 @@
       }
     },
     {
-      "id": "rotom-4",
+      "id": "ccc-rotom-4",
       "pokemon": "rotom",
       "type": "pokemon",
       "presets": [

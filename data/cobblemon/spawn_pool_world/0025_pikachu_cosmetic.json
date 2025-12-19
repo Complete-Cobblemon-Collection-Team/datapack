@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "pikachu-cosmetic",
+      "id": "ccc-pikachu-cosmetic",
       "pokemon": "pikachu cosplay=cosplay",
       "presets": [
         "natural"

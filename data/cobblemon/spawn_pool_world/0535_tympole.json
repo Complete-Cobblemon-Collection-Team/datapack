@@ -4,13 +4,13 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "tympole-1",
+      "id": "ccc-tympole-1",
       "pokemon": "tympole",
       "presets": [
         "water"
       ],
       "type": "pokemon",
-      "spawnablePositionType": "surface",
+      "context": "surface",
       "bucket": "common",
       "level": "1-30",
       "weight": 5.4,
