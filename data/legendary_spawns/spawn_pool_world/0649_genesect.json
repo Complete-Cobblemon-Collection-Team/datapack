@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-genesect-1",
+      "id": "genesect-1",
       "pokemon": "genesect",
       "presets": [
         "natural"
@@ -20,12 +20,11 @@
         ],
         "neededNearbyBlocks": [
           "minecraft:iron_block"
-        ],
-        "key_item": "mythsandlegends:genesect_drive"
+        ]
       }
     },
     {
-      "id": "mythsandlegends-genesect-2",
+      "id": "genesect-2",
       "pokemon": "genesect",
       "presets": [
         "natural"
@@ -45,8 +44,7 @@
         ],
         "neededNearbyBlocks": [
           "minecraft:iron_block"
-        ],
-        "key_item": "mythsandlegends:genesect_drive"
+        ]
       }
     }
   ]
