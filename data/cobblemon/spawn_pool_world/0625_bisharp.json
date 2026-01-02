@@ -27,6 +27,57 @@
           }
         }
       ]
+    },
+    {
+      "id": "ccc-bisharp-herd-1",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon-herd",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "levelRange": "10-40",
+      "weight": 1.0,
+      "maxHerdSize": 5,
+      "minDistanceBetweenSpawns": 1.5,
+      "herdablePokemon": [
+        {
+          "pokemon": "bisharp",
+          "levelRange": "38-53",
+          "weight": 1,
+          "levelRangeOffset": "-3-3"
+        },
+        {
+          "pokemon": "bisharp",
+          "isLeader": true,
+          "levelRange": "43-58",
+          "weight": 1,
+          "maxTimes": 1,
+          "levelRangeOffset": "4-7"
+        },
+        {
+          "pokemon": "bisharp held_item=cobblemon:kings_rock",
+          "isLeader": true,
+          "levelRange": "50-65",
+          "weight": 1,
+          "maxTimes": 1,
+          "levelRangeOffset": "4-7"
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_bamboo"
+        ]
+      },
+      "weightMultipliers": [
+        {
+          "multiplier": 3.2,
+          "condition": {
+            "timeRange": "night"
+          }
+        }
+      ]
     }
+
   ]
 }
