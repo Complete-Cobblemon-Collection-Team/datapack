@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:stony_peaks"
+          "#cobblemon:is_peak"
         ]
       }
     }

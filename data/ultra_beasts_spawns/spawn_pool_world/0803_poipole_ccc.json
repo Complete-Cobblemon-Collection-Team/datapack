@@ -4,17 +4,19 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-celesteela-1",
-      "pokemon": "celesteela",
+      "id": "ccc-poipole-1",
+      "pokemon": "poipole",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70-100",
-      "weight": 3.2,
+      "level": "48-60",
+      "weight": 0.08,
       "condition": {
-        "canSeeSky": true,
         "biomes": [
-          "#minecraft:is_end"
+          "#cobblemon:is_end"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:purpur_block"
         ]
       }
     }
