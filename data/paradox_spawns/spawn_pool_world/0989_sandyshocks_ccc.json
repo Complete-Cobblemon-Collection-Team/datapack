@@ -6,9 +6,6 @@
     {
       "id": "ccc-sandyshocks-1",
       "pokemon": "sandyshocks",
-      "presets": [
-        "deep_dark"
-      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
@@ -16,7 +13,14 @@
       "weight": 2.12,
       "condition": {
         "biomes": [
-          "#cobblemon:is_dripstone"
+          "#cobblemon:is_dripstone",
+          "#cobblemon:is_deep_dark"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_hills",
+          "#cobblemon:is_mountains"
         ]
       }
     }

@@ -1,43 +1,41 @@
 {
-  "enabled": true,
+  "enabled": "true",
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-poipole-1",
-      "pokemon": "poipole",
+      "id": "ccc-irontreads-1",
+      "pokemon": "irontreads",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
-      "level": "48-60",
-      "weight": 5.8,
+      "level": "50-70",
+      "weight": 3,
       "condition": {
-        "canSeeSky": true,
         "biomes": [
-          "ad_astra:lunar_wastelands"
+          "#cobblemon:is_arid",
+          "#cobblemon:is_badlands",
+          "#cobblemon:is_mountain"
         ]
       }
     },
     {
-      "id": "ccc-poipole-2",
-      "pokemon": "poipole",
+      "id": "ccc-irontreads-2",
+      "pokemon": "irontreads",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "ultra-rare",
-      "level": "48-60",
-      "weight": 0.08,
+      "bucket": "rare",
+      "level": "50-70",
+      "weight": 0.5,
       "condition": {
         "biomes": [
-          "#minecraft:is_end"
-        ],
-        "neededNearbyBlocks": [
-          "minecraft:purpur_block"
+          "#cobblemon:is_end"
         ]
       }
     }

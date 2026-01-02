@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-ironhands_1",
+      "pokemon": "ironhands",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-50",
+      "weight": 2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_mountain"
+        ]
+      }
+    },
+    {
+      "id": "ccc-ironhands_2",
+      "pokemon": "ironhands",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-50",
+      "weight": 2,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_end"
+        ]
+      }
+    }
+  ]
+}
