@@ -17,7 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "none"
+          "#cobblemon:is_desert"
         ]
       }
     },
@@ -34,7 +34,7 @@
       "weight": 1.0,
       "condition": {
         "biomes": [
-          "none"
+          "#cobblemon:is_end"
         ]
       }
     }
