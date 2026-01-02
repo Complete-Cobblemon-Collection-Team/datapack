@@ -13,7 +13,7 @@
       "weight": 7.0,
       "condition": {
         "biomes": [
-          "minecraft:lush_caves"
+          "#cobblemon:is_lush"
         ]
       }
     }

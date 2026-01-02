@@ -1,65 +1,48 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-irontreads-1",
-      "pokemon": "irontreads",
+      "id": "ccc-slitherwing-1",
+      "pokemon": "slitherwing",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
-      "level": "50-70",
-      "weight": 3,
+      "level": "50-60",
+      "weight": 0.15,
       "condition": {
+        "canSeeSky": true,
         "biomes": [
           "#cobblemon:is_arid",
-          "#cobblemon:is_badlands",
-          "#cobblemon:is_mountain"
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_badlands"
         ]
       }
     },
     {
-      "id": "ccc-irontreads-2",
-      "pokemon": "irontreads",
+      "id": "ccc-slitherwing-2",
+      "pokemon": "slitherwing",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
-      "level": "50-70",
-      "weight": 0.5,
+      "level": "50-60",
+      "weight": 0.9,
       "condition": {
         "biomes": [
-          "#minecraft:is_end"
+          "#cobblemon:nether/is_crimson"
         ]
       }
     },
     {
-      "id": "ccc-irontreads-3",
-      "pokemon": "irontreads",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "rare",
-      "level": "50-70",
-      "weight": 10,
-      "condition": {
-        "biomes": [
-          "#betterend:dust_wastelands",
-          "#betterend:dry_shrubland"
-        ]
-      }
-    },
-    {
-      "id": "ccc-irontreads-4",
-      "pokemon": "irontreads",
+      "id": "ccc-slitherwing-3",
+      "pokemon": "slitherwing",
       "presets": [
         "natural"
       ],
@@ -70,7 +53,25 @@
       "weight": 5,
       "condition": {
         "biomes": [
-          "betterend:crystal_mountains"
+          "betterend:crystal_mountains",
+          "betterend:amber_land"
+        ]
+      }
+    },
+    {
+      "id": "ccc-slitherwing-4",
+      "pokemon": "slitherwing",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-60",
+      "weight": 0.9,
+      "condition": {
+        "biomes": [
+          "betternether:nether_jungle"
         ]
       }
     }
