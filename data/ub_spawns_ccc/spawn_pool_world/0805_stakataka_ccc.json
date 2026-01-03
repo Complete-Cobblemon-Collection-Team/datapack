@@ -4,17 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-buzzwole-1",
-      "pokemon": "buzzwole",
+      "id": "ccc-stakataka-1",
+      "pokemon": "stakataka",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "70-100",
-      "weight": 3.2,
+      "weight": 2.0,
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_swamp"
+          "#ub_spawns_ccc:stakataka"
         ]
       }
     }
