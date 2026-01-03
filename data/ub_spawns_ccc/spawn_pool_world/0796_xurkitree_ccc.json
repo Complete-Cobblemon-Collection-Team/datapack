@@ -4,19 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-poipole-1",
-      "pokemon": "poipole",
+      "id": "ccc-xurkitree-1",
+      "pokemon": "xurkitree",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "48-60",
-      "weight": 0.08,
+      "level": "70-100",
+      "weight": 3.5,
       "condition": {
+        "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_end"
-        ],
-        "neededNearbyBlocks": [
-          "minecraft:purpur_block"
+          "#ub_spawns_ccc:xukirtreee"
         ]
       }
     }

@@ -4,19 +4,17 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-guzzlord-1",
-      "pokemon": "guzzlord",
-      "presets": [
-        "natural"
-      ],
+      "id": "ccc-blacephalon-1",
+      "pokemon": "blacephalon",
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "rare",
-      "level": "70-90",
-      "weight": 1,
+      "bucket": "ultra-rare",
+      "level": "15-32",
+      "weight": 3.5,
       "condition": {
+        "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_end"
+          "#ub_spawns_ccc:blacephalon"
         ]
       }
     }

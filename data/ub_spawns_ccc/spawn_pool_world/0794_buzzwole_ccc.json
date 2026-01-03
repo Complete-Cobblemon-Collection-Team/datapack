@@ -4,8 +4,8 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-celesteela-1",
-      "pokemon": "celesteela",
+      "id": "ccc-buzzwole-1",
+      "pokemon": "buzzwole",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_end"
+          "#ub_spawns_ccc:buzzwole"
         ]
       }
     }

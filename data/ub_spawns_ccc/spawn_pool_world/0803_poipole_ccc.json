@@ -4,17 +4,19 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-stakataka-1",
-      "pokemon": "stakataka",
+      "id": "ccc-poipole-1",
+      "pokemon": "poipole",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70-100",
-      "weight": 2.0,
+      "level": "48-60",
+      "weight": 0.08,
       "condition": {
-        "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_peak"
+          "#ub_spawns_ccc:poipole"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:purpur_block"
         ]
       }
     }
