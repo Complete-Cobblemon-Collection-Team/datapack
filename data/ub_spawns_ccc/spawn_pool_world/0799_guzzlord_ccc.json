@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-guzzlord-1",
+      "id": "ccc-ub-guzzlord-1",
       "pokemon": "guzzlord",
       "presets": [
         "natural"
