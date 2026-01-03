@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-kartana-1",
+      "id": "ccc-ub-kartana-1",
       "pokemon": "kartana",
       "type": "pokemon",
       "context": "grounded",
