@@ -1,5 +1,6 @@
 {
-  "enabled": true,
+  "comment": "Disabled until restoration - Gito",
+  "enabled": false,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
