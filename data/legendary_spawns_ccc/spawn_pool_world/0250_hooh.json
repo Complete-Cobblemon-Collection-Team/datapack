@@ -4,27 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-hooh-1",
-      "pokemon": "hooh",
-      "presets": [
-        "natural",
-        "wild"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.1,
-      "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
-        "biomes": [
-          "minecraft:sunflower_plains"
-        ]
-      }
-    },
-    {
-      "id": "ccc-hooh-2",
+      "id": "mythsandlegends-hooh-1",
       "pokemon": "hooh",
       "presets": [
         "natural"
@@ -32,18 +12,11 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
+      "level": "40-70",
       "weight": 0.1,
       "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_plains"
-        ]
-      },
-      "anticondition": {
-        "biomes": [
-          "minecraft:sunflower_plains"
+          "#legendary_spawns_ccc:hooh"
         ]
       }
     }

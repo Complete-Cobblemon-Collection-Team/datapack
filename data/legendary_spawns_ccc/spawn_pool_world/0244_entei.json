@@ -51,7 +51,7 @@
       ],
       "condition": {
         "biomes": [
-          "#cobblemon:is_overworld"
+          "#legendary_spawns_ccc:entei"
         ]
       }
     }

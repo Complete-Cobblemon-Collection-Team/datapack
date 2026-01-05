@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_forest"
+          "#legendary_spawns_ccc:celebi"
         ],
         "timeRange": "night"
       }

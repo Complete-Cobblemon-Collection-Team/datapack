@@ -16,7 +16,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_ocean"
+          "#legendary_spawns_ccc:lugia"
         ]
       }
     }
