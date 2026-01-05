@@ -14,7 +14,22 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#ub_spawns_ccc:celesteela"
+          "#ub_spawns_ccc:celesteela/overworld"
+        ]
+      }
+    },
+    {
+      "id": "ccc-ub-celesteela-2",
+      "pokemon": "celesteela",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70-100",
+      "weight": 3.2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#ub_spawns_ccc:celesteela/end"
         ]
       }
     }
