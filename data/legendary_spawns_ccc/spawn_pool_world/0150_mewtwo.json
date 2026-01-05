@@ -12,13 +12,8 @@
       "level": "70-75",
       "weight": 0.1,
       "condition": {
-        "structures": [
-          "#cobblemon:is_cave",
-          "#cobblemon:is_deep_dark",
-          "#cobblemon:is_spooky",
-          "minecraft:dark_forest",
-          "minecraft:deep_dark",
-          "minecraft:windswept_gravelly_hills"
+        "biomes": [
+          "#legendary_spawns_ccc:mewtwo"
         ]
       }
     }

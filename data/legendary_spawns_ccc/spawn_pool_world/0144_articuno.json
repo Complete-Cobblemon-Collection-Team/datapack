@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-articuno",
+      "id": "ccc-articuno-kantonian-1",
       "pokemon": "articuno",
       "presets": [
         "natural"
@@ -17,13 +17,13 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_freezing"
+          "#legendary_spawns_ccc:articuno/kantonian"
         ],
         "isRaining": true
       }
     },
     {
-      "id": "ccc-articuno-galarian",
+      "id": "ccc-articuno-galarian-1",
       "pokemon": "articuno galarian",
       "presets": [
         "natural"
@@ -36,7 +36,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_freezing"
+          "#legendary_spawns_ccc:articuno/galarian"
         ],
         "isRaining": false
       }
