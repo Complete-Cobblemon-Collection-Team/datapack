@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-moltres-1",
+      "id": "ccc-moltres-kantonian-1",
       "pokemon": "moltres",
       "presets": [
         "natural"
@@ -17,7 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_badlands"
+          "#legendary_spawns_ccc:moltres/kantonian"
         ]
       }
     },
@@ -35,7 +35,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_beach"
+          "#legendary_spawns_ccc:moltres/galarian"
         ]
       }
     }

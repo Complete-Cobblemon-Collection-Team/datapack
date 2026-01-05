@@ -11,13 +11,6 @@
       "bucket": "ultra-rare",
       "level": "60",
       "weight": 0.1,
-      "condition": {
-        "biomes": [
-          "#cobblemon:is_floral",
-          "#cobblemon:is_jungle"
-        ],
-        "isRaining": false
-      },
       "weightMultipliers": [
         {
           "multiplier": 4,
@@ -25,7 +18,13 @@
             "timeRange": "noon"
           }
         }
-      ]
+      ],
+      "condition": {
+        "biomes": [
+          "#legendary_spawns_ccc:mew"
+        ],
+        "isRaining": false
+      }
     }
   ]
 }

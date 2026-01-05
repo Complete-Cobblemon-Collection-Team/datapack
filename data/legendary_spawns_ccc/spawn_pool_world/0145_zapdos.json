@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "ccc-zapdos",
+      "id": "ccc-zapdos-kantonian-1",
       "pokemon": "zapdos",
       "presets": [
         "natural"
@@ -14,13 +14,6 @@
       "bucket": "ultra-rare",
       "level": "60",
       "weight": 0.1,
-      "condition": {
-        "canSeeSky": true,
-        "minY": 100,
-        "biomes": [
-          "#cobblemon:is_overworld"
-        ]
-      },
       "weightMultipliers": [
         {
           "multiplier": 4,
@@ -34,10 +27,17 @@
             ]
           }
         }
-      ]
+      ],
+      "condition": {
+        "canSeeSky": true,
+        "minY": 100,
+        "biomes": [
+          "#legendary_spawns_ccc:zapdos/kantonian"
+        ]
+      }
     },
     {
-      "id": "ccc-zapdos-galarian",
+      "id": "ccc-zapdos-galarian-1",
       "pokemon": "zapdos galarian",
       "presets": [
         "natural"
@@ -49,7 +49,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_mountain"
+          "#legendary_spawns_ccc:zapdos/galarian"
         ],
         "isRaining": false
       }
