@@ -16,7 +16,7 @@
       "weight": 2,
       "condition": {
         "biomes": [
-          "#cobblemon:is_plains"
+          "#legendary_spawns_ccc:keldeo"
         ]
       }
     }

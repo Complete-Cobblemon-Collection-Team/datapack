@@ -16,7 +16,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:nether/is_basalt"
+          "#legendary_spawns_ccc:reshiram"
         ]
       }
     }

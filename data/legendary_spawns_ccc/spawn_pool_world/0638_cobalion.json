@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:windswept_forest"
+          "#legendary_spawns_ccc:cobalion"
         ]
       }
     }

@@ -19,7 +19,7 @@
       ],
       "condition": {
         "biomes": [
-          "#cobblemon:is_glacial"
+          "#legendary_spawns_ccc:kyurem"
         ]
       }
     }
