@@ -14,7 +14,7 @@
       "condition": {
         "isRaining": true,
         "biomes": [
-          "#cobblemon:is_ocean"
+          "#legendary_spawns_ccc:kyogre"
         ],
         "minLureLevel": 3
       }

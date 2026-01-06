@@ -11,7 +11,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_frozen_ocean"
+          "#legendary_spawns_ccc:regice"
         ],
         "canSeeSky": true,
         "minLureLevel": 3
