@@ -17,30 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "minecraft:jagged_peaks"
-        ]
-      }
-    },
-    {
-      "id": "ccc-palkia-2",
-      "pokemon": "palkia",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.1,
-      "condition": {
-        "canSeeSky": true,
-        "biomes": [
-          "#cobblemon:is_peak"
-        ]
-      },
-      "anticondition": {
-        "biomes": [
-          "minecraft:jagged_peaks"
+          "#legendary_spawns_ccc:palkia"
         ]
       }
     }

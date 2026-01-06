@@ -17,7 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_floral"
+          "#legendary_spawns_ccc:shaymin"
         ],
         "timeRange": "night",
         "isRaining": false
