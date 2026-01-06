@@ -11,7 +11,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_jungle"
+          "#legendary_spawns_ccc:zarude"
         ]
       }
     }

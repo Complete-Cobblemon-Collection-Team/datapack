@@ -16,7 +16,7 @@
       "weight": 1.0,
       "condition": {
         "biomes": [
-          "#cobblemon:is_snowy_taiga"
+          "#legendary_spawns_ccc:calyrex"
         ]
       }
     }
