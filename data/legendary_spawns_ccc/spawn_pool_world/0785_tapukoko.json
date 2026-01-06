@@ -18,8 +18,7 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_jungle",
-          "#cobblemon:is_beach"
+          "#legendary_spawns_ccc:tapukoko"
         ]
       }
     }

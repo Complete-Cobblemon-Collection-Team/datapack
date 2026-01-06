@@ -7,7 +7,7 @@
       "id": "ccc-cosmog-1",
       "pokemon": "cosmog",
       "presets": [
-        "natural"
+        "ancient_city"
       ],
       "type": "pokemon",
       "context": "grounded",
@@ -18,7 +18,7 @@
         "minSkyLight": 0,
         "maxSkyLight": 7,
         "biomes": [
-          "#cobblemon:is_deep_dark"
+          "#legendary_spawns_ccc:cosmog"
         ]
       }
     }

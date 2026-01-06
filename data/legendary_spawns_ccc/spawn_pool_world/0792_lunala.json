@@ -16,9 +16,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "minecraft:dark_forest",
-          "byg:warped_desert",
-          "#cobblemon:is_hills"
+          "#legendary_spawns_ccc:lunala"
         ],
         "timeRange": "night"
       }

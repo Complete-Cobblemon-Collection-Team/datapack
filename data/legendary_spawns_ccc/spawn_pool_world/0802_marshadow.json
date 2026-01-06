@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": false,
         "biomes": [
-          "#cobblemon:is_deep_dark"
+          "#legendary_spawns_ccc:marshadow"
         ]
       }
     }

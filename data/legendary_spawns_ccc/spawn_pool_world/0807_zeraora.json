@@ -17,7 +17,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_desert"
+          "#legendary_spawns_ccc:zeraora"
         ]
       }
     }
