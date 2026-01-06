@@ -16,7 +16,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_mountain"
+          "#legendary_spawns_ccc:rayquaza"
         ],
         "timeRange": "day",
         "isRaining": false

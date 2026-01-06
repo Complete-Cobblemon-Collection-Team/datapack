@@ -18,7 +18,7 @@
         "minY": 120,
         "isRaining": false,
         "biomes": [
-          "#cobblemon:is_overworld"
+          "#legendary_spawns_ccc:latias"
         ]
       }
     }
