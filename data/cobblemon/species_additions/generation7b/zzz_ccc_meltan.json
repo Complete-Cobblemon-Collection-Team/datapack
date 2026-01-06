@@ -5,5 +5,20 @@
     "width": 0.7,
     "height": 1.1,
     "fixed": false
-  }
+  },
+  "evolutions": [
+    {
+      "id": "meltan_melmetal",
+      "variant": "level_up",
+      "result": "melmetal",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "meltan ccc_meltan_iron_charge=999"
+        }
+      ]
+    }
+  ]
 }
