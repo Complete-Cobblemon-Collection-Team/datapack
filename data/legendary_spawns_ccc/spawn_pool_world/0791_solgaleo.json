@@ -16,9 +16,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_plateau",
-          "minecraft:desert",
-          "wythers:badlands_desert"
+          "#legendary_spawns_ccc:solgaleo"
         ],
         "timeRange": "day"
       }
