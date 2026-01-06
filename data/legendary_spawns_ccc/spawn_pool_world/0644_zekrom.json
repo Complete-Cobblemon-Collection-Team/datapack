@@ -24,7 +24,7 @@
       ],
       "condition": {
         "biomes": [
-          "#cobblemon:is_mountain"
+          "#legendary_spawns_ccc:zekrom"
         ]
       }
     }

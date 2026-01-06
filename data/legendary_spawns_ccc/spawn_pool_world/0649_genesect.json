@@ -16,31 +16,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_deep_dark"
-        ],
-        "neededNearbyBlocks": [
-          "minecraft:iron_block"
-        ]
-      }
-    },
-    {
-      "id": "ccc-genesect-2",
-      "pokemon": "genesect",
-      "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.1,
-      "condition": {
-        "biomes": [
-          "minecraft:the_end",
-          "minecraft:end_barrens",
-          "minecraft:end_highlands",
-          "minecraft:end_midlands",
-          "minecraft:small_end_islands"
+          "#legendary_spawns_ccc:genesect"
         ],
         "neededNearbyBlocks": [
           "minecraft:iron_block"
