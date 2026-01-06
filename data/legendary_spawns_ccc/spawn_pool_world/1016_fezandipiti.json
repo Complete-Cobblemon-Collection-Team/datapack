@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_peak"
+          "#legendary_spawns_ccc:fezandipiti"
         ]
       }
     }

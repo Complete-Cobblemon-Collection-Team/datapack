@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_savanna"
+          "#legendary_spawns_ccc:okidogi"
         ]
       }
     }

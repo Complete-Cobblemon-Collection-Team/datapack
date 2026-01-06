@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_swamp"
+          "#legendary_spawns_ccc:pecharunt"
         ]
       }
     }
