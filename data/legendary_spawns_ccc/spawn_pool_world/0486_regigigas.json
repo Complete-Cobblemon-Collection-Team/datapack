@@ -14,10 +14,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_sandy"
-        ],
-        "structures": [
-          "#minecraft:village"
+          "#legendary_spawns_ccc:regigigas"
         ]
       }
     }

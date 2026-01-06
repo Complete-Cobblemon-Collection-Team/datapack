@@ -7,25 +7,6 @@
       "id": "ccc-heatran-1",
       "pokemon": "heatran",
       "presets": [
-        "natural"
-      ],
-      "type": "pokemon",
-      "context": "grounded",
-      "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.1,
-      "condition": {
-        "minSkyLight": 0,
-        "maxSkyLight": 7,
-        "biomes": [
-          "#cobblemon:is_badlands"
-        ]
-      }
-    },
-    {
-      "id": "ccc-heatran-1",
-      "pokemon": "heatran",
-      "presets": [
         "lava"
       ],
       "type": "pokemon",
@@ -35,12 +16,12 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_nether"
+          "#legendary_spawns_ccc:heatran/overworld"
         ]
       }
     },
     {
-      "id": "ccc-heatran-3",
+      "id": "ccc-heatran-2",
       "pokemon": "heatran",
       "presets": [
         "natural"
@@ -52,7 +33,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic"
+          "#legendary_spawns_ccc:heatran/nether"
         ]
       }
     }
