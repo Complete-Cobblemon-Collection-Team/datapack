@@ -25,7 +25,7 @@
         "maxSkyLight": 7,
         "maxY": 0,
         "biomes": [
-          "#cobblemon:is_overworld"
+          "#legendary_spawns_ccc:zygarde"
         ]
       }
     },
@@ -51,7 +51,7 @@
         "maxSkyLight": 7,
         "maxY": -16,
         "biomes": [
-          "#cobblemon:is_overworld"
+          "#legendary_spawns_ccc:zygarde"
         ]
       }
     },
@@ -77,7 +77,7 @@
         "maxSkyLight": 7,
         "maxY": -32,
         "biomes": [
-          "#cobblemon:is_overworld"
+          "#legendary_spawns_ccc:zygarde"
         ]
       }
     }
