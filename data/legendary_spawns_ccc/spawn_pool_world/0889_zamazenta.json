@@ -19,7 +19,7 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "biomes": [
-          "#cobblemon:is_spooky"
+          "#legendary_spawns_ccc:zamazenta"
         ]
       }
     }

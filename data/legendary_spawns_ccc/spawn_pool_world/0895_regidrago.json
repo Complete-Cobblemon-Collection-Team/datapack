@@ -14,7 +14,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_deep_dark"
+          "#legendary_spawns_ccc:regidrago"
         ]
       }
     }

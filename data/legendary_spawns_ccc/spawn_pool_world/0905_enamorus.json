@@ -17,9 +17,7 @@
       "condition": {
         "isThundering": true,
         "biomes": [
-          "minecraft:flower_forest",
-          "minecraft:meadow",
-          "minecraft:cherry_grove"
+          "#legendary_spawns_ccc:enamorus"
         ]
       }
     }
