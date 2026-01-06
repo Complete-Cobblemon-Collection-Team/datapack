@@ -4,6 +4,7 @@
     "#cobblemon:is_mountain",
     "#cobblemon:is_magical",
     "#cobblemon:is_river",
-    "#cobblemon:is_jungle"
+    "#cobblemon:is_jungle",
+    "#cobblemon:is_cave"
   ]
 }

@@ -14,7 +14,7 @@
       "condition": {
         "canSeeSky": true,
         "biomes": [
-          "#cobblemon:is_freezing"
+          "#legendary_spawns_ccc:chienpao"
         ]
       }
     }

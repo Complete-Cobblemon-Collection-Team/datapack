@@ -17,8 +17,7 @@
       "condition": {
         "maxY": 127,
         "biomes": [
-          "#cobblemon:nether/is_basalt",
-          "#cobblemon:nether/is_wasteland"
+          "#legendary_spawns_ccc:chiyu/nether"
         ]
       }
     },
@@ -35,7 +34,7 @@
       "weight": 4.0,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic"
+          "#legendary_spawns_ccc:chiyu/overworld"
         ]
       }
     }

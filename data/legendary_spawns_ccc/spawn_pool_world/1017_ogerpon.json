@@ -13,7 +13,7 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_lush"
+          "#legendary_spawns_ccc:ogerpon"
         ]
       }
     }
