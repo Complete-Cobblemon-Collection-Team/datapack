@@ -17,7 +17,7 @@
         "maxY": 0,
         "canSeeSky": false,
         "biomes": [
-          "#cobblemon:is_overworld"
+          "#legendary_spawns_ccc:diancie/overworld_surface"
         ],
         "neededNearbyBlocks": [
           "minecraft:amethyst_block",
@@ -30,7 +30,7 @@
       },
       "anticondition": {
         "biomes": [
-          "#cobblemon:is_lush"
+          "#legendary_spawns_ccc:diancie/overworld_surface_anticondition"
         ]
       }
     },
@@ -51,12 +51,12 @@
         "maxY": 30,
         "canSeeSky": false,
         "biomes": [
-          "#cobblemon:is_cave"
+          "#legendary_spawns_ccc:diancie/overworld_cave"
         ]
       },
       "anticondition": {
         "biomes": [
-          "#cobblemon:is_lush"
+          "#legendary_spawns_ccc:diancie/overworld_cave_anticondition"
         ]
       }
     }
