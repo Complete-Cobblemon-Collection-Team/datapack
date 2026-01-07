@@ -1,4 +1,9 @@
 {
   "target": "cobblemon:beautifly",
-  "implemented": true
+  "implemented": true,
+  "hitbox": {
+    "width": 0.5,
+    "height": 1,
+    "fixed": false
+  }
 }

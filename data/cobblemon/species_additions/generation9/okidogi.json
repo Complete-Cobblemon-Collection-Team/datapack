@@ -1,4 +1,9 @@
 {
   "target": "cobblemon:okidogi",
-  "implemented": true
+  "implemented": true,
+  "hitbox": {
+    "width": 1,
+    "height": 2.5,
+    "fixed": false
+  }
 }

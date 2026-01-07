@@ -1,4 +1,9 @@
 {
   "target": "cobblemon:ragingbolt",
-  "implemented": true
+  "implemented": true,
+  "hitbox": {
+    "width": 1.8,
+    "height": 3,
+    "fixed": false
+  }
 }

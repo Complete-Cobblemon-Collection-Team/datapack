@@ -7,6 +7,8 @@
     "height": 3.4,
     "fixed": false
   },
+  "standingEyeHeight": 0.95,
+  "swimmingEyeHeight": 0.9,
   "behaviour": {
     "resting": {
       "canSleep": true,
