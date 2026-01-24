@@ -1,9 +1,14 @@
 {
   "target": "cobblemon:meltan",
   "implemented": true,
+  "hitbox": {
+    "width": 0.7,
+    "height": 1.1,
+    "fixed": false
+  },
   "evolutions": [
     {
-      "id": "meltan_melmetal",
+      "id": "ccc_meltan_melmetal",
       "variant": "level_up",
       "result": "melmetal",
       "consumeHeldItem": false,
@@ -11,7 +16,7 @@
       "requirements": [
         {
           "variant": "properties",
-          "target": "meltan ccc_meltan_iron_charge=999"
+          "target": "meltan meltan_iron_charge=999"
         }
       ]
     }

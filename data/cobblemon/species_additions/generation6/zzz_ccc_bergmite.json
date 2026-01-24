@@ -1,6 +1,8 @@
 {
   "target": "cobblemon:bergmite",
   "implemented": true,
+  "standingEyeHeight": 0.4,
+  "swimmingEyeHeight": 0.4,
   "evolutions": [
     {
       "id": "bergmite_avalugg",

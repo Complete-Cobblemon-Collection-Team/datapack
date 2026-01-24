@@ -1,4 +1,9 @@
 {
   "target": "cobblemon:ironboulder",
-  "implemented": true
+  "implemented": true,
+  "hitbox": {
+    "width": 2,
+    "height": 2.5,
+    "fixed": false
+  }
 }

@@ -3,8 +3,10 @@
   "implemented": true,
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1.5,
+    "width": 0.6,
+    "height": 1.4,
     "fixed": false
-  }
+  },
+  "standingEyeHeight": 0.8,
+  "swimmingEyeHeight": 0.8
 }

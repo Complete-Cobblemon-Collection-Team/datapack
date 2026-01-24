@@ -1,7 +1,8 @@
 {
+  "__comment": "Provides Iron Charge property for Meltan evolution to Melmetal",
   "type": "integer",
   "keys": [
-    "ccc_meltan_iron_charge"
+    "meltan_iron_charge"
   ],
   "default": 0,
   "min": 0,

@@ -1,6 +1,6 @@
 {
   "target": "cobblemon:ironthorns",
-  "implemented": "true",
+  "implemented": true,
   "baseScale": 0.75,
   "hitbox": {
     "width": 2.3,
