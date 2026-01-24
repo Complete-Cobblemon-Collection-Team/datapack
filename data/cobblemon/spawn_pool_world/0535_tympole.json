@@ -7,16 +7,14 @@
       "id": "ccc-tympole-1",
       "pokemon": "tympole",
       "presets": [
-        "water"
+        "underwater"
       ],
       "type": "pokemon",
-      "context": "surface",
+      "context": "submerged",
       "bucket": "common",
       "level": "1-30",
       "weight": 5.4,
       "condition": {
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
         "biomes": [
           "#cobblemon:is_swamp"
         ]

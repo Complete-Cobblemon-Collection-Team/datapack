@@ -22,7 +22,7 @@
       },
       "condition": {
         "biomes": [
-          "#cobblemon:is_aether"
+          "#cobblemon:is_floral"
         ]
       }
     }

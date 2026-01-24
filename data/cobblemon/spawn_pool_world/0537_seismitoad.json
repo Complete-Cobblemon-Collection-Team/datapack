@@ -26,7 +26,7 @@
       "id": "ccc-seismitoad-2",
       "pokemon": "seismitoad",
       "presets": [
-        "water"
+        "underwater"
       ],
       "type": "pokemon",
       "context": "submerged",
