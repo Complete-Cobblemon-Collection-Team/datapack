@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "wormadam-1",
+      "id": "ccc-wormadam-1",
       "pokemon": "wormadam bagworm_cloak=plant",
       "presets": [
         "natural",
@@ -33,7 +33,7 @@
       }
     },
     {
-      "id": "wormadam-2",
+      "id": "ccc-wormadam-2",
       "pokemon": "wormadam bagworm_cloak=sandy",
       "type": "pokemon",
       "context": "grounded",
@@ -47,7 +47,7 @@
       }
     },
     {
-      "id": "wormadam-3",
+      "id": "ccc-wormadam-3",
       "pokemon": "wormadam bagworm_cloak=trash",
       "type": "pokemon",
       "context": "grounded",

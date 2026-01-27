@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "minior-1",
+      "id": "ccc-minior-1",
       "pokemon": "minior meteor_shield=meteor",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "minior-2",
+      "id": "ccc-minior-2",
       "pokemon": "minior meteor_shield=core core_color=red",
       "presets": [
         "natural"
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "minior-3",
+      "id": "ccc-minior-3",
       "pokemon": "minior meteor_shield=core core_color=orange",
       "presets": [
         "natural"
@@ -61,7 +61,7 @@
       }
     },
     {
-      "id": "minior-4",
+      "id": "ccc-minior-4",
       "pokemon": "minior meteor_shield=core core_color=yellow",
       "presets": [
         "natural"
@@ -80,7 +80,7 @@
       }
     },
     {
-      "id": "minior-5",
+      "id": "ccc-minior-5",
       "pokemon": "minior meteor_shield=core core_color=green",
       "presets": [
         "natural"
@@ -99,7 +99,7 @@
       }
     },
     {
-      "id": "minior-6",
+      "id": "ccc-minior-6",
       "pokemon": "minior meteor_shield=core core_color=blue",
       "presets": [
         "natural"
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": "minior-7",
+      "id": "ccc-minior-7",
       "pokemon": "minior meteor_shield=core core_color=indigo",
       "presets": [
         "natural"
@@ -137,7 +137,7 @@
       }
     },
     {
-      "id": "minior-8",
+      "id": "ccc-minior-8",
       "pokemon": "minior meteor_shield=core core_color=violet",
       "presets": [
         "natural"

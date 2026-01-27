@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "helioptile-1",
+      "id": "ccc-helioptile-1",
       "pokemon": "helioptile",
       "presets": [],
       "type": "pokemon",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "helioptile-2",
+      "id": "ccc-helioptile-2",
       "pokemon": "helioptile",
       "presets": [],
       "type": "pokemon",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "helioptile-3",
+      "id": "ccc-helioptile-3",
       "pokemon": "helioptile",
       "presets": [],
       "type": "pokemon",

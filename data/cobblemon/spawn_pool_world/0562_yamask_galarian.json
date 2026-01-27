@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "yamask-10",
+      "id": "ccc-yamask-10",
       "pokemon": "yamask galarian=true",
       "presets": [
         "underground"
@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": "yamask-12",
+      "id": "ccc-yamask-12",
       "pokemon": "yamask galarian=true",
       "presets": [
         "ruins"

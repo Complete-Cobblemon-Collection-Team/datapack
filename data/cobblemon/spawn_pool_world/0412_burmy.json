@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "burmy-1",
+      "id": "ccc-burmy-1",
       "pokemon": "burmy bagworm_cloak=plant",
       "presets": [
         "natural",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id": "burmy-3",
+      "id": "ccc-burmy-3",
       "pokemon": "burmy bagworm_cloak=sandy",
       "type": "pokemon",
       "context": "grounded",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "burmy-4",
+      "id": "ccc-burmy-4",
       "pokemon": "burmy bagworm_cloak=trash",
       "type": "pokemon",
       "context": "grounded",

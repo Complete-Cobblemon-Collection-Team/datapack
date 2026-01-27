@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "coalossal-1",
+      "id": "ccc-coalossal-1",
       "pokemon": "coalossal",
       "presets": [
         "natural",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "id": "coalossal-2",
+      "id": "ccc-coalossal-2",
       "pokemon": "coalossal",
       "presets": [
         "natural",

@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "skitty-1",
+      "id": "ccc-skitty-1",
       "pokemon": "skitty",
       "presets": [
         "natural",
@@ -19,10 +19,7 @@
         "minSkyLight": 0,
         "maxSkyLight": 15,
         "biomes": [
-          "aether:skyroot_woodland",
-          "aether:skyroot_meadow",
-          "aether:skyroot_grove",
-          "aether:skyroot_forest"
+          "#cobblemon:is_floral"
         ]
       }
     }

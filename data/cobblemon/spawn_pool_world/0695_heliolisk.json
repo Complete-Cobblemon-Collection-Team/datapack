@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "heliolisk-1",
+      "id": "ccc-heliolisk-1",
       "pokemon": "heliolisk",
       "presets": [],
       "type": "pokemon",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "heliolisk-2",
+      "id": "ccc-heliolisk-2",
       "pokemon": "heliolisk",
       "presets": [],
       "type": "pokemon",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "heliolisk-3",
+      "id": "ccc-heliolisk-3",
       "pokemon": "heliolisk",
       "presets": [],
       "type": "pokemon",

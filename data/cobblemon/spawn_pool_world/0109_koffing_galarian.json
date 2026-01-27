@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "koffing-galarian-1",
+      "id": "ccc-koffing-galarian-1",
       "pokemon": "koffing galarian",
       "presets": [
         "illager_structures"

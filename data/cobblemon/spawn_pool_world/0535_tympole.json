@@ -4,37 +4,19 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "deeper-tympole-1",
+      "id": "ccc-tympole-1",
       "pokemon": "tympole",
       "presets": [
-        "water"
+        "underwater"
       ],
       "type": "pokemon",
       "context": "submerged",
       "bucket": "common",
-      "level": "12-28",
-      "weight": 11.7,
+      "level": "1-30",
+      "weight": 5.4,
       "condition": {
         "biomes": [
-          "deeperdarker:blooming_caverns",
-          "deeperdarker:deeplands",
-          "deeperdarker:echoing_forest"
-        ]
-      }
-    },
-    {
-      "id": "deeper-tympole-2",
-      "pokemon": "tympole",
-      "type": "pokemon",
-      "context": "fishing",
-      "bucket": "common",
-      "level": "12-28",
-      "weight": 3.5,
-      "condition": {
-        "biomes": [
-          "deeperdarker:blooming_caverns",
-          "deeperdarker:deeplands",
-          "deeperdarker:echoing_forest"
+          "#cobblemon:is_swamp"
         ]
       }
     }

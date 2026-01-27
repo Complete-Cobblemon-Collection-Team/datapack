@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "zangoose-1",
+      "id": "ccc-zangoose-1",
       "pokemon": "zangoose",
       "presets": [
         "natural"
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "zangoose-2",
+      "id": "ccc-zangoose-2",
       "pokemon": "zangoose",
       "presets": [
         "wild",

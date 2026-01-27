@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "growlithe-hisuian-1",
+      "id": "ccc-growlithe-hisuian-1",
       "pokemon": "growlithe hisuian",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "growlithe-hisuian-2",
+      "id": "ccc-growlithe-hisuian-2",
       "pokemon": "growlithe hisuian",
       "presets": [
         "natural"
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "growlithe-hisuian-3",
+      "id": "ccc-growlithe-hisuian-3",
       "pokemon": "growlithe hisuian",
       "presets": [
         "natural"

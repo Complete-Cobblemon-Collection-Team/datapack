@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "arcanine-hisuian-1",
+      "id": "ccc-arcanine-hisuian-1",
       "pokemon": "arcanine hisuian",
       "presets": [
         "natural"
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "arcanine-hisuian-2",
+      "id": "ccc-arcanine-hisuian-2",
       "pokemon": "arcanine hisuian",
       "presets": [
         "natural"
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "arcanine-hisuian-3",
+      "id": "ccc-arcanine-hisuian-3",
       "pokemon": "arcanine hisuian",
       "presets": [
         "natural"

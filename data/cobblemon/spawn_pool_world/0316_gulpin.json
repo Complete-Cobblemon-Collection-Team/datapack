@@ -4,10 +4,10 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "deeper-gulpin-1",
+      "id": "ccc-gulpin-1",
       "pokemon": "gulpin",
       "presets": [
-        "deep_dark"
+        "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
@@ -16,7 +16,7 @@
       "weight": 9.2,
       "condition": {
         "biomes": [
-          "deeperdarker:blooming_caverns"
+          "#cobblemon:is_deep_dark"
         ]
       }
     }
