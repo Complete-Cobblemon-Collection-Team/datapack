@@ -1,85 +1,88 @@
-COMPLETE COBBLEMON COLLECTION: MYTHS AND LEGENDS COMPAT LICENSE v1.0
-Copyright (c) Xcavalier
+COMPLETE COBBLEMON COLLECTION
+ALL RIGHTS RESERVED LICENSE (ARR)
+Copyright © Xcavalier
+All rights reserved.
 
-This license is perpetual and non-revocable for any version released under it, unless otherwise stated in writing.
+OFFICIAL LICENSE SOURCES
+This license applies to all versions of the Complete Cobblemon Collection distributed through the following official sources:
+GitHub (license authority and governance):
+https://github.com/Complete-Cobblemon-Collection-Team/.github
+CurseForge project page:
+https://www.curseforge.com/minecraft/texture-packs/complete-cobblemon-collection
+Modrinth project page:
+https://modrinth.com/datapack/complete-cobblemon-collection-myths-and-legends-compat
+Any copies found outside these locations are not guaranteed to be authorized or up-to-date.
 
-Definitions
-Monetization:
-Monetization includes, but is not limited to, receiving any form of revenue or donations—direct or indirect—as a result of the Software’s presence or use. IN SIMPLE TERMS: If your server is making money off of the models in any way shape or form you are BREAKING THIS LICENSE.
+1. DEFINITIONS
+“Project” refers to the Complete Cobblemon Collection, including but not limited to all models, textures, datapacks, assets, configurations, documentation, and updates.
+“Author” refers to Xcavalier
+“User” refers to any individual, group, or entity that downloads, installs, hosts, or otherwise uses the Project.
+“Commercial Use” refers to any use that directly or indirectly generates revenue, monetary benefit, or financial advantage.
 
-1. Grant of License
-Permission is hereby granted, free of charge, to any person (the "User") obtaining a copy of this software (the "Software") to use, modify, and distribute the Software, subject to the following terms:
+2. LICENSE GRANT
+This Project is released under an All Rights Reserved (ARR) license.
+Permission is granted only to use the Project under the conditions outlined in this document. No ownership, copyright, or intellectual property rights are transferred.
 
-1.1 Non-Commercial Use
-Users who do not monetize the Software—including but not limited to using it on public Minecraft servers with donation pages or stores—are granted full permission to use, modify, and redistribute the Software.
+3. PERMITTED USES
+You MAY:
+Use the Project for personal, private gameplay.
+Use the Project on non-commercial Minecraft servers, provided that:
+The server does not profit from the Project in any form.
+The Project is not used as an incentive, reward, or selling point.
+Create and share non-paywalled videos or livestreams featuring gameplay with the Project, with proper credit.
 
-1.2 Commercial Use
-Users who do wish to monetize the Software—such as by including it in modpacks, server packs, or any other revenue-generating contexts—must first obtain explicit written permission from the author, Xcavalier. Permission may be denied for any reason and is granted solely at the author's discretion.
+4. PROHIBITED USES
+You MAY NOT, without explicit written permission from the Author:
+4.1 Commercial Server Use (STRICTLY PROHIBITED)
+You may not use the Project on any server that profits directly or indirectly, including but not limited to:
+Paid crates, loot boxes, or gacha systems
+Paid legendaries, mythicals, or rare Pokémon
+Paid Pokémon spawns, encounters, or permissions
+Donator-only Pokémon, forms, models, or content
+Paid ranks or perks that affect gameplay involving this Project
+Any monetization where the Project adds value to a paid product or service
+If your server makes money and this Project is involved in any way, you are not allowed to use it unless given permission.
+4.2 Redistribution & Modification
+You may not:
+Redistribute the Project, in whole or in part
+Reupload it to other websites or launchers
+Bundle it with other mods or datapacks
+Modify, remix, or alter any assets or data
+Create derivative works based on the Project
+4.3 AI & Automation
+You may not use the Project or its assets to train, feed, or generate content through AI systems. I don’t know why you would, but don’t do it.
 
-The name "Complete Cobblemon Collection: Myths and Legends Compat" must be visibly listed in modpack or server documentation (e.g., mod list, pack description). Deliberate concealment of the Software’s use or its assets is strictly prohibited.
+5. ATTRIBUTION
+Where attribution is applicable, credit must be given as:
+“Complete Cobblemon Collection by Xcavalier”
+Attribution does not grant permission for any otherwise prohibited use.
 
-1.3 Modification & Redistribution
-Modified versions of the Software may be redistributed provided that:
+6. ENFORCEMENT & TERMINATION
+Any violation of this license results in immediate termination of permission to use the Project.
+Upon termination, all copies must be removed from servers, systems, and backups.
+The Author reserves the right to publicly revoke usage rights and deny future access.
 
-The name includes the phrase “Myths and Legends Compat”;
+7. COMMERCIAL LICENSING
+Commercial usage is not permitted by default.
+If you wish to:
+Use the Project on a monetized server
+Include it in paid services or offerings
+Obtain redistribution or modification rights
+You must obtain explicit written permission from the author. Commercial licenses may involve additional terms or fees settled upon through an agreement. As this pack is a combination pack, please reach out to the original creators listed in the credits, as they have their own rates for commercial licenses for their respective packs. Any inquiries or negotiations can be brought to the author by DM over Discord.
 
-The modified version is not monetized in any way;
+8. NO WARRANTY
+The Project is provided “AS IS,” without warranty of any kind. The Author is not liable for damages or losses arising from its use.
 
-The redistribution complies with the same terms outlined in this license.
+9. LICENSE CHANGES
+This license may be updated at any time. Continued use of the Project constitutes acceptance of the most recent version published at the official sources listed above.
 
-If modified versions incorporate or alter third-party artistic assets (e.g., models, textures, animations), the following conditions apply:
+SERVER OWNERS – TL;DR
+❌ Monetized server? You usually CANNOT use this pack.
+❌ Crates, paid Pokémon, paid rates, donator perks? Not allowed.
+❌ Selling anything that benefits from these models? Not allowed.
+✅ Free server with no monetization tied to gameplay? Allowed.
+❓ Want to monetize anyway? You must get written permission first.
+If you are unsure contact me @Xcavalier on Discord before use. Just sent a friend request
 
-The modifier must obtain explicit written permission from the original asset creators prior to public redistribution.
+By downloading, installing, or using the Complete Cobblemon Collection, you agree to all terms stated above.
 
-The modifier must provide clear credit to original creators:
-
-Inside the Software (e.g., credits.txt or in-game),
-
-Wherever the Software is publicly shared or downloaded.
-
-No redistribution is permitted until these requirements are fully met.
-
-2. Liability & Warranty Disclaimer
-The Software is provided "as is", without warranty of any kind. The author is not liable for any damages arising from the use, modification, or redistribution of the Software, including but not limited to data loss or server issues.
-
-3. Revenue Distribution & Author Compliance
-Any monetization that occurs with explicit permission must involve transparent revenue sharing among contributors, based on a mutually agreed arrangement. The author and all contributors must comply with this license in their own usage and monetization practices.
-
-4. License Coverage
-All versions of the Software released before November 11, 2024, are licensed under GPL-3.0-ONLY.
-
-All versions released before April 11, 2025, are licensed under the AllTheMons-ARR License, available here.
-
-This license (Myths and Legends Compat License v2.2) applies only to versions released on or after April 11, 2025.
-
-5. Intellectual Property Rights
-All models, textures, animations, and code included in this Software remain the intellectual property of their original creators. This license grants no ownership beyond the rights explicitly stated herein.
-
-6. Third-Party Asset Consent
-The following authors have granted permission for their assets to be used in this project, under the terms outlined in this license:
-
-Author	Software Title	Link	Consent Given
-Genotype	Genomons	Genomons	Yes
-YaBoiBruno	MoreMons	MoreMons	Yes
-BlaziumHydro	Hydro Reanimodel Pack	Hydro Reanimodel Pack	Yes
-Aki4hiro	OdysseyMons	OdysseyMons	Yes
-Beezy	AlphabetSoup	AlphabetSoup	Yes
-Beezy	LackingMons	LackingMons	Yes
-ASHISK	Ashimons	Ashimons	Yes
-ASHISK	Pokemans	Pokemans	Yes
-NetImmerse	The Jewel Pokémon	The Jewel Pokémon	Yes
-Bwavi	WaviMons	WaviMons	Yes
-El Pigeon	Pigeon’s Poke Pack	Pigeon's Poke Pack	Yes
-Tontra	Pokemans	Pokemans	Yes
-Kale	Kale’s Collection	Kale’s Collection	Yes
-Raspix	CobbleCats	CobbleCats	Yes
-IzetyXX	LackingMons	LackingMons	Yes
-AlloneF	Not So Cobblemon	Not So Cobblemon	Yes
-RedRibbonz	MissingMons	MissingMons	Yes
-
-These authors have explicitly granted permission for their work to be used in this collection under the terms of this license.
-
-7. Governing Law
-This license is governed by applicable copyright and intellectual property laws. Any disputes will be resolved under the jurisdiction of the author’s local legal system in Illinois, USA.
-
-By using, modifying, or distributing Complete Cobblemon Collection: Myths and Legends Compat, you agree to the terms of this license.
