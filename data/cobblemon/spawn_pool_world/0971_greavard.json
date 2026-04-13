@@ -22,8 +22,9 @@
           "regions_unexplored:haunted_forest"
         ],
         "timeRange": "night"
-      },
-      {
+      }
+    },
+    {
       "id": "greavard-1",
       "pokemon": "greavard",
       "presets": [
@@ -37,8 +38,8 @@
       "condition": {
         "biomes": [
           "minecraft:soul_sand_valley",
-          "minecraft:basalt_deltas",
-        ],
+          "minecraft:basalt_deltas"
+        ]
       }
     }
   ]
